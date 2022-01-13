@@ -1,0 +1,59 @@
+{
+    "prices": {
+        "web": {
+            "simple_site": {
+                "name": "Yksinkertaiset kotisivut",
+                "price": 250
+            },
+            "unique_site": {
+                "name": "Ainutlaatuiset kotisisvut",
+                "price": 800
+            },
+            "seo": {
+                "name": "Selainoptimointi (SEO)",
+                "price": 80
+            },
+            "domain": {
+                "name": "Verkkotunnus",
+                "name_multiple": "Verkkotunnusta",
+                "price": 15
+            },
+            "chatbot": {
+                "name": "ChatBot",
+                "price": 40
+            },
+            "googlemaps": {
+                "name": "Google Maps -kartta",
+                "price": 80
+            },
+            "extranet": {
+                "name": "Extranet-ympäristö",
+                "price": 300
+            },
+            "hosting_2": {
+                "name": "Web-hotelli-hosting (2GB)",
+                "price": 8
+            },
+            "hosting_6": {
+                "name": "Web-hotelli-hosting (6GB)",
+                "price": 12
+            },
+            "hosting_15": {
+                "name": "Web-hotelli-hosting (15GB)",
+                "price": 16
+            }
+        },
+        "brand": {
+            
+        },
+        "photo": {
+
+        },
+        "editing": {
+
+        },
+        "tech": {
+            
+        }
+    }
+}
